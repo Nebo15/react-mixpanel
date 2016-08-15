@@ -19,7 +19,7 @@
   },
   "homepage": "https://github.com/neciu/react-mixpanel#readme",
   "peerDependencies": {
-    "react": "^15.0.0",
+    "react": "^0.14.8",
     "mixpanel-browser": "^2.7.2"
   },
   "devDependencies": {
@@ -32,9 +32,9 @@
     "jsdom": "^8.4.0",
     "mixpanel-browser": "^2.7.2",
     "mocha": "^2.4.5",
-    "react": "^15.0.1",
-    "react-addons-test-utils": "^15.0.1",
-    "react-dom": "^15.0.1",
+    "react": "^0.14.8",
+    "react-addons-test-utils": "^0.14.8",
+    "react-dom": "^0.14.8",
     "sinon": "^1.17.3",
     "sinon-chai": "^2.8.0",
     "xmlhttprequest": "^1.8.0"
